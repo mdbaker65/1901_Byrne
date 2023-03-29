@@ -2,4 +2,4 @@
 
 # Samples received: 
 
-# Concentration of RNA samples determined by Tape Station and provided by the customer.  Customer provided 50ul RNA with a total mass of 1ug.  Used entire aliquot for library prepartation.
+# Concentration of RNA samples determined by Tape Station and provided by the customer.  Customer provided 50ul RNA with a total mass of 1ug for both samples.  Used entire aliquot for library prepartation.
